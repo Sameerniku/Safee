@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">saftey device</string>
+    <string name="hint_contact_name">Enter Contact Name</string>
+    <string name="hint_phone_number">Enter Phone Number</string>
+    <string name="add_contacts">Add contacts</string>
+    <string name="emergency_dial">Emergency Dial</string>
+
+</resources>
